@@ -16,3 +16,5 @@ EXPOSE 9292
 #docker build . -t {name}:{tag} 
 #docker build . -t name:red
 #docker build . -t name:blue etc
+
+#docker run -d -P namer:red etc
