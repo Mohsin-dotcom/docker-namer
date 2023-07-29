@@ -11,7 +11,7 @@ EXPOSE 9292
 
 
 
-
+#In order to create multiple images that run on different ports
 #docker build . -t {name}
 #docker build . -t {name}:{tag} 
 #docker build . -t name:red
